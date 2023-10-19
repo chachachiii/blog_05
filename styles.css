@@ -5,8 +5,7 @@ header{
     font-style: normal;
     background-color: white;
     height: 100px;
-    border-radius: 35px;
-    box-shadow: 1px 1px 10px  grey;
+    box-shadow: 0px 1px 10px  grey;
     display: flex;
     justify-content: center;
 
